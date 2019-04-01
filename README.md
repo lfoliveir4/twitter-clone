@@ -6,7 +6,7 @@ Most of the commits in this repository correspond to videos in the program.
 
 ## Project Setup
 
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
+* clone the Project - `https://github.com/lfoliveir4/twitter-clone.git`
 * install the dependencies - `npm install`
 
 ## License
